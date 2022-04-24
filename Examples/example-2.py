@@ -3,7 +3,7 @@
 
 #    Solving a 4x4 Sudoku puzzle (11 numbers missing).
 #
-#    Copyright (C) 2013 Efstathios Chatzikyriakidis <contact@efxa.org>
+#    Copyright (C) 2013 Efstathios Chatzikyriakidis <stathis.chatzikyriakidis@gmail.com>
 #
 #    This program is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU General Public License as published by
